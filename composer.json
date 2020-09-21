@@ -1,0 +1,17 @@
+{
+    "name": "ramphor/framework",
+    "description": "The WordPress framework",
+    "type": "library",
+    "license": "GPL-2.0-only",
+    "authors": [
+        {
+            "name": "Puleeno Nguyen",
+            "email": "puleeno@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "ramphor/includes": "^5.5",
+        "ramphor/admin": "^5.5"
+    }
+}
