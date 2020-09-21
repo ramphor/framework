@@ -9,9 +9,17 @@
             "email": "puleeno@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "ramphor/includes": "^5.5",
-        "ramphor/admin": "^5.5"
-    }
+        "ramphor/admin": "^5.5",
+        "league/flysystem": "1.0.70",
+        "monolog/monolog": "1.25.5",
+        "nesbot/carbon": "1.39.1",
+        "psr/container": "^1.0@dev",
+        "symfony/process": "3.4.44",
+        "vlucas/phpdotenv": "4.1.8",
+        "egulias/email-validator": "2.1.21"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
