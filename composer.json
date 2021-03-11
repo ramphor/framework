@@ -10,8 +10,6 @@
         }
     ],
     "require": {
-        "ramphor/includes": "^5.5",
-        "ramphor/admin": "^5.5",
         "league/flysystem": "1.0.70",
         "monolog/monolog": "1.25.5",
         "nesbot/carbon": "1.39.1",
